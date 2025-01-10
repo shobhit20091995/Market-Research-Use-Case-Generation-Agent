@@ -14,7 +14,5 @@ This **Streamlit app** generates AI & GenAI use cases, finds Kaggle datasets, an
 ✅ **Automatic Report Generation** in Excel format  
 ✅ **Streamlit Web App** for easy interaction  
 
----
-
-## 📂 Project Structure
+## To run read Readme.txt
 
