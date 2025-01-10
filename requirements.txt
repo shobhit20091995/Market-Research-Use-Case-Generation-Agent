@@ -1,0 +1,10 @@
+openai
+requests
+markdownify
+googlesearch-python
+beautifulsoup4
+lxml
+json5
+kaggle
+pandas
+xlsxwriter
